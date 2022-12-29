@@ -7,6 +7,10 @@
 Hello there! I'm Fuguety> 👋
 </h3>
 
+<h2 align="center">
+I'm a Computer Science student 💻, Game develper 🎮, and Game Enjoyer 🍷🗿!
+</h2> 
+
 
 <!---
 Fuguety/Fuguety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
