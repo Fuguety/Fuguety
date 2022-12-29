@@ -29,10 +29,11 @@ ${Lucas Azevedo}.${Fuguety}
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fuguety)
 
+![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&theme=blue-green)
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=blue-green)
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fuguety&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 **Other skills**
 
