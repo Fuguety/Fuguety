@@ -30,6 +30,8 @@ ${Lucas Azevedo}.${Fuguety}
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fuguety)
 
 
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fuguety&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 **Other skills**
@@ -51,7 +53,12 @@ ${Lucas Azevedo}.${Fuguety}
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+**OS that I use**
 
+![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
