@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/102688981/209982681-e37d60ac-d91f-477c-8130-fd3712b4f7b6.png)
+
+
 - 👋 Hi, I’m @Fuguety
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning python and C++
@@ -22,3 +25,15 @@ ${Lucas Azevedo}.${Fuguety}
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fuguety&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
+
+
+
+
+
+
+
+
