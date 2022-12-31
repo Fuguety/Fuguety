@@ -17,6 +17,7 @@ Fuguety/Fuguety is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 **Connect with me**
 
 <a href="https://www.linkedin.com/in/lucas-azevedo-78658723a/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fuguety | LinkedIn" max-width="100%"/></a>
@@ -25,6 +26,14 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
+<h3 align="center">✨ About me ✨</h3>
+
+- 🌱 Computer science student on Brazil 🇧🇷
+- 💻 Love coding 
+- 🎮 Love gaming
+- 👥 Looking foward meeting new people
+
+<br>
 
 
 
