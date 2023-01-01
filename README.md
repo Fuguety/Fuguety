@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 - 🎮 Love gaming
 - 👥 Looking foward meeting new people
 
+<h3 align="center">Currently learning</h3>
+
 <br>
 
 
