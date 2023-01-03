@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
 - Html/CSS -- intermediate - advanced
 - python -- intermediate
 - JS -- intermediate
+- Blender -- intermediate - advanced
+
 
 <br>
 
