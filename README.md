@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Computer science student on Brazil 🇧🇷
 - 💻 Love coding 
-- 🎮 Love gaming (Currently workin on one, located in Random-Stuff)
+- 🎮 Love gaming (Currently working on one, located in Random-Stuff)
 - 👥 Looking foward meeting new people
 
 <h3 align="center">Currently learning</h3>
