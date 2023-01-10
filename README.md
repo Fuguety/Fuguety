@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Currently learning</h3>
 
-- C++ -- intermediate - advanced
+- C++ -- advanced
 - C# -- basic
 - Html/CSS -- intermediate - advanced
 - python -- intermediate
