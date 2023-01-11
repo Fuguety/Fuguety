@@ -50,8 +50,10 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fuguety)
 
-![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&theme=blue-green)
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=blue-green)
+
+
+![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&theme=radical)
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=radical)
 
 
 
