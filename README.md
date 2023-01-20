@@ -38,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 - C++ -- advanced
 - C# -- basic
 - Html/CSS -- advanced
-- python -- intermediate
 - JS -- advanced
+- python -- intermediate
 - Blender -- intermediate - advanced
 
 
