@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 - C# -- basic
 - Html/CSS -- advanced
 - JS -- advanced
-- python -- intermediate
+- Python -- intermediate
 - Blender -- intermediate - advanced
 
 
