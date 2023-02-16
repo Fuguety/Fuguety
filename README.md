@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 - C++ -- advanced
 - C# -- basic
+- Java -- basic
 - Html/CSS -- advanced
 - JS -- advanced
 - Python -- intermediate
