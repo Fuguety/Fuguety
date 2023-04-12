@@ -34,13 +34,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Currently learning</h3>
 
-- C++ -- advanced
-- C# -- basic
-- Java -- basic
-- Html/CSS -- advanced
-- JS -- advanced
-- Python -- intermediate
-- Blender -- intermediate
+- C++
+- C#
+- Java
+- Html/CSS
+- JS
+- Python
+- Blender 
 
 <br>
 
