@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 - Html/CSS
 - JS
 - Python
+- Godot Engine
 - Blender 
 
 <br>
@@ -64,6 +65,7 @@ You can click the Preview link to take a look at your changes.
 ![vstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
 **Coding skills**
