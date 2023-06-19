@@ -85,6 +85,12 @@ You can click the Preview link to take a look at your changes.
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<div align="center">
+<br>
+<p><b>Visitors Count</b></p>  
+<p><img src="https://profile-counter.glitch.me/{Fuguety}/count.svg" /></p> 
+<br></div>
+
 
 
 
