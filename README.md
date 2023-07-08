@@ -7,6 +7,7 @@
 Hello there! I'm Fuguety 👋
 </h3>
 
+
 <h2 align="center">
 I'm a Computer Science graduating 💻, Game developer 🎮, and Game Enjoyer 🍷🗿!
 </h2> 
