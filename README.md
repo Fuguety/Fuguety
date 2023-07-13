@@ -49,8 +49,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
+<!---
+Lets add gradient :)
+--->
 
-![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&theme=radical)
+![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&include_all_commits=true&theme=radical)
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=radical)
 ![stats3](http://github-readme-streak-stats.herokuapp.com/?user=fuguety&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Fuguety&theme=radical)
