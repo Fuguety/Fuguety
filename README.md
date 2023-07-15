@@ -58,7 +58,6 @@ Lets add gradient :)
 ![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&include_all_commits=true&theme=radical)
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=radical)
 ![stats3](http://github-readme-streak-stats.herokuapp.com/?user=fuguety&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=Fuguety&theme=radical)
 
 <br>
 
@@ -98,6 +97,7 @@ Lets add gradient :)
 <br>
 <p><b>Visitors Count</b></p>  
 <p><img src="https://profile-counter.glitch.me/{Fuguety}/count.svg" /></p> 
+<p><img src="https://github-profile-trophy.vercel.app/?username=Fuguety&theme=radical" /></p>
 <br></div>
 
 
