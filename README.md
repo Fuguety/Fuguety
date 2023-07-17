@@ -12,6 +12,7 @@ Hello there! I'm Fuguety 👋
 
 
 
+
 <h2 align="center">
 I'm a Computer Science graduating 💻, Game developer 🎮, and Game Enjoyer 🍷🗿!
 </h2> 
