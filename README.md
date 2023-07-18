@@ -97,7 +97,7 @@ Lets add gradient :)
 <div align="center">
 <br>
 <p><b>Visitors Count</b></p>  
-<p><img src="https://profile-counter.glitch.me/{Fuguety}/count.svg" /></p> 
+<p><img src="https://profile-counter.glitch.me/{Fuguety}/count.svg" /></p> <br>
 <p><img src="https://github-profile-trophy.vercel.app/?username=Fuguety&theme=radical" /></p>
 <br></div>
 
