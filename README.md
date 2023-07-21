@@ -56,10 +56,14 @@ You can click the Preview link to take a look at your changes.
 <!---
 Lets add gradient :)
 --->
+<div align="center">
 
-![stats1](https://github-readme-stats.vercel.app/api?username=fuguety&theme=radical)
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&layout=compact&langs_count=6&theme=radical)
-![stats3](http://github-readme-streak-stats.herokuapp.com/?user=fuguety&theme=radical)
+<p><img src="https://github-readme-stats.vercel.app/api?username=fuguety&show_icons=true&icon_color=FFFF00&text_color=E0FFFF&title_color=ADFF2F&bg_color=DEG,1C1C1C,9400D3&include_all_commits=true" /></p> 
+
+<br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&custom_title=Languages&layout=pie&langs_count=6&text_color=E0FFFF&title_color=E0FFFF&bg_color=DEG,1C1C1C,9400D3" /></p>
+</div>
 
 <br>
 
@@ -100,6 +104,7 @@ Lets add gradient :)
 <p><b>Visitors Count</b></p>  
 <p><img src="https://profile-counter.glitch.me/{Fuguety}/count.svg" /></p> <br>
 <p><img src="https://github-profile-trophy.vercel.app/?username=Fuguety&theme=radical" /></p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com/?user=fuguety&theme=radical"</p>
 <br></div>
 
 
