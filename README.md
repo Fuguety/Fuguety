@@ -22,7 +22,7 @@ I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer �
 
 <h3 align="center">✨ About me ✨</h3>
 
-- 🌱 Computer science student on Brazil 🇧🇷
+- 🌱 Computer engineer student on Spain 🇪🇸
 - 💻 Love coding 
 - 🎮 Love gaming
 - 👥 Looking foward meeting new people
