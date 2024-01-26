@@ -14,7 +14,6 @@ Hello there! I'm Fuguety 👋
 
 
 
-
 <h2 align="center">
 I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer 🍷🗿!
 </h2> 
