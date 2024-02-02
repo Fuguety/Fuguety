@@ -12,7 +12,6 @@ Hello there! I'm Fuguety 👋
 I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer 🍷🗿!
 </h2> 
 
-
 **Connect with me**
 
 <a href="https://www.linkedin.com/in/lucas-azevedoo/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fuguety | LinkedIn" max-width="100%"/></a>
