@@ -37,10 +37,6 @@ I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer �
 
 <br>
 
-
-<!---
-Lets add gradient :)
---->
 <div align="center">
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=fuguety&show_icons=true&icon_color=FFFF00&text_color=E0FFFF&title_color=ADFF2F&bg_color=DEG,1C1C1C,9400D3&include_all_commits=true" /></p> 
