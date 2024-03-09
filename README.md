@@ -64,7 +64,6 @@ I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer �
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 
-
 **Coding skills**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
