@@ -80,7 +80,6 @@ I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer �
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 <div align="center">
 <br>
 <p><b>Visitors Count</b></p>  
