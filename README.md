@@ -46,6 +46,7 @@ I'm a Computer Engeneer graduating 💻, Game developer 🎮, and Game Enjoyer �
 
 
 
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuguety&custom_title=Languages&layout=pie&langs_count=6&text_color=E0FFFF&title_color=E0FFFF&bg_color=DEG,1C1C1C,9400D3" /></p>
 </div>
 
